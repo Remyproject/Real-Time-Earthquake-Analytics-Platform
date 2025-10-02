@@ -358,7 +358,7 @@ pip install requests
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/yourusername/earthquake-analytics-platform.git
+git clone https://github.com/Remyproject/Real-Time-Earthquake-Analytics-Platform.git
 cd earthquake-analytics-platform
 ```
 
@@ -392,8 +392,8 @@ pip install reverse-geocoder
 **Manual Execution**:
 ```python
 # Set date parameters
-start_date = "2024-10-01"
-end_date = "2024-10-08"
+start_date = "2025-09-18"
+end_date = "2025-10-01"
 
 # Execute notebooks in sequence
 # 1. Bronze Layer
